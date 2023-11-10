@@ -2,7 +2,7 @@
 
 
 [//]:<>(Title)
-#Turntable Tool
+# Turntable Tool
 
 [//]:<> (This is a comment)
 This maya tool allows the artists to create a turntable

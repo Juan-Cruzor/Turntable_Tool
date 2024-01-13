@@ -1,7 +1,6 @@
 [//]:<> (This is a comment)
 
 
-[//]:<>(Title)
 # Turntable Tool
 
 [//]:<> (This is a comment)
